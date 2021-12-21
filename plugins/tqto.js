@@ -25,6 +25,11 @@ Ilman:
 https://github.com/ilmanhdyt
 Amirul: 
 https://github.com/amiruldev20
+
+Recode By 
+WolfCodeX:
+https://github.com/WolfCodeX29
+
 `
      const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
      templateMessage: {
