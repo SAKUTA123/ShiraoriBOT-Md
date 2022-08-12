@@ -1,4 +1,4 @@
-global.owner = ['6281351047727'] // Put your number here
+global.owner = ['6287760550924'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -21,14 +21,14 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'ShiraoriBOT Multi device'
-global.author = 'Ilman'
+global.packname = 'Sad-Botz Multi device'
+global.author = 'Papa-Chan👑'
 
 global.wm = '© ShiraoriBOT-Md Made by Ilman'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 
 global.wait = '_*tunggu sedang di proses...*_'
-global.eror = '_*Server Error*_'
+global.eror = '_*Maaf Kak Server sedang Error*_'
 
 global.multiplier = 69 // The higher, The harder levelup
 
